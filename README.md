@@ -42,31 +42,31 @@ This notebook performs EDA on the Titanic dataset to uncover key patterns relate
 
 ## 🚀 How to Run
 
-1. Open [EDA_Titanic.ipynb](https://github.com/DNYANA645/CREDORA-INTERNSHIP-TASK-2/blob/main/CREDORA_TASK_2.ipynb) in **Jupyter Notebook** or **Google Colab**
+1. Open [EDA_Titanic.ipynb](https://colab.research.google.com/drive/14EHxREzIBlaoY8_XRs0Sg8Vs-PbGQzCL?usp=sharing) in **Jupyter Notebook** or **Google Colab**
 2. Run all cells to explore the analysis and visualizations
-3. Review [Titanic_EDA_Report.pdf](https://github.com/DNYANA645/CREDORA-INTERNSHIP-TASK-2/blob/main/REPORT%20TASK2%20CREDORA%20BY%20DNYANESH-1.pdf) for a clean summary of results
+3. Review [Titanic_EDA_Report.pdf]("C:\Users\HP\Downloads\report task2 credora by Harshitha.pdf") for a clean summary of results
 
 ---
 
 ## 🌐 Live Demo 
 
-- **Google Colab Link**: [[LINK](https://colab.research.google.com/drive/1shRvdC2hLn5SRjGvcrk-gS4WCrffWoJN#scrollTo=5dNywr88N0ju)]
-- **GitHub Repository**: [[GITHUB](https://github.com/DNYANA645/CREDORA-INTERNSHIP-TASK-2)]
+- **Google Colab Link**: [[LINK](https://colab.research.google.com/drive/14EHxREzIBlaoY8_XRs0Sg8Vs-PbGQzCL?usp=sharing)]
+- **GitHub Repository**: [[GITHUB](https://github.com/chessmanandsmiley/credora-internship-task2)]
 
 ---
 
 ## 👨‍💻 Author
 
-**DNYANESH SHINDE**  
+**Alamuru Venkata Harshitha**  
 _Data Science Intern @ Credora_  
-[[LINKDIN](www.linkedin.com/in/dnyanesh-shinde-622706310)]  
-[GitHub Profile(https://github.com/DNYANA645)]
+[[LINKDIN](www.linkedin.com/in/harshitha-alamuru-931a56267)]  
+[GitHub Profile(https://github.com/chessmanandsmiley)]
 
 ---
 
 ## 📫 Contact
 
-For questions or feedback, reach out at [dnyaneshshinde645@gmail.com] .
+For questions or feedback, reach out at [chinnialamuru98@gmail.com] .
 
 
  
